@@ -3,6 +3,13 @@ Fundamental concepts in Computer Programming
 
 * Defining Terms
   * Computer Program
+    * Overview
+      * What is it?
+      * Why is it needed?
+      * How does it work?
+      * How is it done?
+    * Sample Programs
+    * Programming Languages
   * Source Code (https://www.androidauthority.com/assembly-language-and-machine-code-678230/)
     * Machine Code (Instruction Set)
     * Assembly Language
@@ -18,13 +25,15 @@ Fundamental concepts in Computer Programming
       * SW Qualification Test
   * Tools
     * IDE
+    * Assembler
     * Compiler
+    * Linker
     * Interpreter
     * Debugger
     * Builder
     * Version Control
 * Programming Paradigms (https://digitalfellows.commons.gc.cuny.edu/2018/03/12/an-introduction-to-programming-paradigms/)
-  * Imperative
+  * Imperative/Sequential
   * Functional
   * Object-Oriented
-  * etc.
+  * Event-Driven
