@@ -1,16 +1,16 @@
 # Computer Programming Concepts
-Fundamental concepts in Computer Programming
+Learning fundamental concepts of Computer Programming
 
 * Defining Terms
   * Computer Program
     * Overview
       * What is it?
-      * Why is it needed?
-      * How does it work?
-      * How is it done?
+      * Why we need it?
+      * How it works?
+      * How we do it?
     * Sample Programs
     * Programming Languages
-  * Source Code (https://www.androidauthority.com/assembly-language-and-machine-code-678230/)
+  * Source Code
     * Machine Code (Instruction Set)
     * Assembly Language
     * High-Level Language
@@ -32,8 +32,13 @@ Fundamental concepts in Computer Programming
     * Debugger
     * Builder
     * Version Control
-* Programming Paradigms (https://digitalfellows.commons.gc.cuny.edu/2018/03/12/an-introduction-to-programming-paradigms/)
+* Programming Paradigms
   * Imperative/Sequential
   * Functional
   * Object-Oriented
   * Event-Driven
+  
+## References
+ * https://www.androidauthority.com/assembly-language-and-machine-code-678230/
+ * http://www.automotivespice.com/fileadmin/software-download/AutomotiveSPICE_PAM_31.pdf
+ * https://digitalfellows.commons.gc.cuny.edu/2018/03/12/an-introduction-to-programming-paradigms/
